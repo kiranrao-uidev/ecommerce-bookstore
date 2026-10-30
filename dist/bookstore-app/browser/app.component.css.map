@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;5b62d2bef24ba4bde0d0503e5157fbc0278f56ec9b9df9fa5f8dfe537b761fa9;C:/Users/0038EU744/.bob/playground/bookstore-app/src/app/app.component.ts"],
+  "sourcesContent": ["\n      .app-shell {\n        display: flex;\n        flex-direction: column;\n        min-height: 100vh;\n      }\n\n      .app-main {\n        flex: 1;\n      }\n    "],
+  "mappings": ";AACM,CAAC;AACC,WAAS;AACT,kBAAgB;AAChB,cAAY;AACd;AAEA,CAAC;AACC,QAAM;AACR;",
+  "names": []
+}
